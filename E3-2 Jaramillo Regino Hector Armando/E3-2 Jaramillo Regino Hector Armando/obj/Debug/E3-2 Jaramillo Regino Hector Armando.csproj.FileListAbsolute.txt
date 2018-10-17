@@ -1,0 +1,7 @@
+C:\Users\DELL CORE i5\source\repos\E3-2 Jaramillo Regino Hector Armando\E3-2 Jaramillo Regino Hector Armando\bin\Debug\E3-2 Jaramillo Regino Hector Armando.exe.config
+C:\Users\DELL CORE i5\source\repos\E3-2 Jaramillo Regino Hector Armando\E3-2 Jaramillo Regino Hector Armando\bin\Debug\E3-2 Jaramillo Regino Hector Armando.exe
+C:\Users\DELL CORE i5\source\repos\E3-2 Jaramillo Regino Hector Armando\E3-2 Jaramillo Regino Hector Armando\bin\Debug\E3-2 Jaramillo Regino Hector Armando.pdb
+C:\Users\DELL CORE i5\source\repos\E3-2 Jaramillo Regino Hector Armando\E3-2 Jaramillo Regino Hector Armando\obj\Debug\E3-2 Jaramillo Regino Hector Armando.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\source\repos\E3-2 Jaramillo Regino Hector Armando\E3-2 Jaramillo Regino Hector Armando\obj\Debug\E3-2 Jaramillo Regino Hector Armando.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\source\repos\E3-2 Jaramillo Regino Hector Armando\E3-2 Jaramillo Regino Hector Armando\obj\Debug\E3-2 Jaramillo Regino Hector Armando.exe
+C:\Users\DELL CORE i5\source\repos\E3-2 Jaramillo Regino Hector Armando\E3-2 Jaramillo Regino Hector Armando\obj\Debug\E3-2 Jaramillo Regino Hector Armando.pdb
